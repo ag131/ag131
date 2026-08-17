@@ -145,28 +145,6 @@ View Project →
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ag131&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag131&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ag131&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -182,16 +160,6 @@ View Project →
 <div align="center">
 
 <img src="https://ghchart.rshah.org/0e75b6/ag131" alt="GitHub Contribution Calendar" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ag131&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
